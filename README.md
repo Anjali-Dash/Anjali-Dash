@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Anjali-Dash
-- 👀 I’m interested in learning coding in multiple languages and implementing them to solve real world problems.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail- dashjyotirmayee123@gmail.com
+👋 Hi, I'm Jyotirmayee!
+🎓 A dedicated learner with a strong focus on academic excellence and continuous improvement.
+📚 Currently advancing my knowledge through intensive study and hands-on projects.
+🛠️ Passionate about research, problem-solving, and applying theory to real-world challenges.
+🤝 Open to collaboration on academic, open-source, and research-driven projects.
+📫 How to reach me mail- dashjyotirmayee123@gmail.com
 
 <!---
 Anjali-Dash/Anjali-Dash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
